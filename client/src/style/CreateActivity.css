@@ -1,0 +1,112 @@
+
+
+  
+.formContenedor{
+   color: snow;
+   padding: 20px 20px 20px 20px;
+   width: 51%;
+   font-family: monospace;
+   font-size: 23px;
+   background: #3e6270d6;
+   box-shadow: 0 0 6px 0 rgb(255 255 255 / 80%);
+   border-radius: 10px;
+   flex-direction: column;
+   margin: 20px 16px -4px 338px;
+   }
+   
+   #wor{
+    display: flex;
+   }
+   #btnBackact:focus, #btnBackact:hover {
+    outline: none;
+    border-color: rgba(234,76,137,0.4);
+    background-color: #fff;
+    box-shadow: 0 0 0 4px rgb(234 76 137 / 10%);
+    transition: .3s ease;
+   }
+#btnBackact{
+
+        font-family: auto;
+        background: #3f7184ab;
+        color: #c6c6c6;
+        font-size: 25px;
+        padding: 15px 15px 15px 15px;
+        border: none;
+        margin-left: 20px;
+        border-radius: 71px;
+        margin: 50px;
+    }
+    
+       
+ #error{
+    border: double;
+    color: wheat;
+    font-size: 20px;
+ }
+
+ #contryCard{
+   padding: 5px;
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: row;
+   align-content: stretch;
+   justify-content: space-between;
+   align-items: baseline;
+   background-color: #cd8c8980;
+   border-radius: 4px;
+   margin: 7px;
+ }
+ #btnDelete{
+   border-radius: 9px;
+   border: none;
+   width: 33px;
+   height: 33px;
+   background-color: #e4d9d9;
+   margin-right: 20px;
+ }
+
+ #btnCreate{
+    border-radius: 5px;
+    border: none;
+    width: 23%;
+    height: 47px;
+    margin: 24px -11px 50px 50px;
+    font-size: 20px;
+    font-family: auto;
+    background-color: #d0b4b3;
+ }
+ #btnCreate:focus, #btnCreate:hover {
+    outline: none;
+    border-color: rgba(234,76,137,0.4);
+    background-color: #fff;
+    box-shadow: 0 0 0 4px rgb(234 76 137 / 10%);
+    transition: .3s ease;
+   }
+ #season{
+    border-radius: 20px;
+    width: 200px;
+    height: 30px;
+    font-size: 18px;
+    font-family: auto;
+    background-color: rgb(255 255 255 / 80%);
+ }
+ #chose{
+   background-color: rgb(255 255 255 / 80%);
+    font-size: 18px;
+    font-family: auto;
+    width: 537px;
+    height: 30px;
+    border-radius: 20px;
+    padding: 2px 2px 2px 13px;
+ }
+#inp{
+   background-color: rgb(255 255 255 / 80%);
+    font-family: auto;
+    color: #314958;
+    font-size: 18px;
+    padding: 10px 10px 10px 5px;
+    display: inline;
+    border: none;
+    width: 344px;
+    border-radius: 20px;
+}

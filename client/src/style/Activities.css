@@ -1,0 +1,35 @@
+.inf-act{
+    margin: 70px 70px 70px 70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 15px;
+    font-family: auto;
+    border: 2px solid #3c7990;
+    border-radius: 8px;
+    background-color: #f3f3f4ad;
+    align-content: stretch;
+    justify-content: space-around;
+}
+#btnBack:focus, #btnBack:hover {
+    outline: none;
+    border-color: rgba(234,76,137,0.4);
+    background-color: #fff;
+    box-shadow: 0 0 0 4px rgb(234 76 137 / 10%);
+    transition: .3s ease;
+   }
+#btnBack{
+
+        font-family: auto;
+        background: #3f7184ab;
+        color: #c6c6c6;
+        font-size: 25px;
+        padding: 15px 15px 15px 15px;
+        border: none;
+        margin-left: 20px;
+        border-radius: 71px;
+        margin: 50px;
+    }
+       
+
+     

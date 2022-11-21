@@ -1,0 +1,17 @@
+
+\l	=> para ver todas nuestras base de datos
+\c	=> conectarnos a una base de datos.
+\t 	=> mostrar las base de datos que tenemos creadas.
+\dt	=> Muestra todas las tablas creadas dentro de una base de datos.
+\d tablanombre =>  Muestra la informacion de la tabla
+\l	=> para ver todas nuestras base de datos
+\c nameDeLaDB	=> conectarnos a una base de datos.
+\t 	=> mostrar las base de datos que tenemos creadas.
+\dt	=> Muestra todas las tablas creadas dentro de una base de datos.
+\d tablanombre =>  Muestra la informacion de la tabla
+
+SELECT * FROM nameTable
+
+
+\! cls   limpiar la consola
+antes de ver las tablas me tengo que conectar \c a la tabla que quiero
